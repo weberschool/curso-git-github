@@ -1,5 +1,7 @@
 # curso-git-github (work-in-progress)
-Aqui tem todo material de apoio do curso "Controle de Versões com Git e Github"
+Aqui terá todo o material de apoio do curso "Controle de Versões com Git e Github".
+
+Para maiores informações a respeito do curso, visite [nossa página](http://fb.com/weberschoolfsa) no facebook.
 
 ## Exercícios
 
