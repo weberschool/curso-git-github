@@ -30,4 +30,5 @@ Para maiores informações a respeito do curso, visite [nossa página](http://fb
 22. Acontecerá propositalmente um conflito no arquivo README.md depois que realizar o merge da segunda branch;
 23. Resolva esse conflito e verifique se ambas as alterações estão na branch "develop";
 24. Por último, faça merge das branch "master" e "develop";
+25. Para finalizar, crie um repositório no github e faça push;
 ```
