@@ -15,10 +15,10 @@ Para maiores informações a respeito do curso, visite [nossa página](http://fb
 7. Altere o arquivo README.md e adicione outro arquivo na pasta;
 8. Verifique o status das mudanças;
 9. Faça commit dessas mudanças na branch "develop";
-10. Certifique-se que seu status esteja sem mudanças para ser "comitadas";
+10. Certifique-se que seu status esteja sem mudanças para serem "comitadas";
 11. Faça novamente outra alteração no arquivo README.md;
 12. Faça commit dessa alteração no branch "develop";
-13. Certifique-se que seu status esteja sem mudanças para ser "comitadas";
+13. Certifique-se que seu status esteja sem mudanças para serem "comitadas";
 14. Agora faça um merge da branch "develop" e "master";
 15. Certifique-se que as alterações da branch "develop" estão na branch "master" através dos logs;
 16. Vá novamente para a branch "develop" e crie uma branch chamada "nova-tela";
